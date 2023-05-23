@@ -8,19 +8,16 @@ If you want to learn more about Quarkus, please visit its website: https://quark
 
 You can run your application in dev mode that enables live coding using:
 ```shell script
-./mvn quarkus:dev
+./mvn quarkus:dev 
 ```
-![List.png](..%2F..%2FVideos%2FList.png)
+![img_2.png](img_2.png)
     
 Swagger UI
-![Swagger.png](..%2F..%2FVideos%2FSwagger.png)
+![img_3.png](img_3.png)
 
 Postman
 ![img.png](img.png)
 
 Database PostgreSQL
-<<<<<<< HEAD
 ![img_1.png](img_1.png)
-=======
-![img_1.png](img_1.png)
->>>>>>> 4ebc5c8fa89dd5f0e115a1d029541fc6c3521978
+
