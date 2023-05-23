@@ -19,4 +19,8 @@ Postman
 ![img.png](img.png)
 
 Database PostgreSQL
+<<<<<<< HEAD
 ![img_1.png](img_1.png)
+=======
+![img_1.png](img_1.png)
+>>>>>>> 4ebc5c8fa89dd5f0e115a1d029541fc6c3521978
